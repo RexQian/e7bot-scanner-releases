@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "version": "1.3.3",
+  "versionCode": 13,
+  "publishedAt": "2026-08-03T19:28:40+08:00",
+  "notes": "## 本次更新\n\n- 支持识别并采集《第七史诗》华为渠道服数据。\n- 增加应用内版本检查、后台下载、完整性校验和系统安装升级流程。\n- Android 安装包改由 GitHub Actions 自动签名并发布。\n",
+  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.3.3",
+  "apk": {
+    "name": "e7bot-scanner-android-1.3.3.apk",
+    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.3.3/e7bot-scanner-android-1.3.3.apk",
+    "sha256": "f48339f154057a319ca841c8ea400d2c60356ff25cc531176ffa64541b055f24",
+    "sizeBytes": 205663
+  }
+}
