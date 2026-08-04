@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.3.4",
-  "versionCode": 14,
-  "publishedAt": "2026-08-04T07:45:48+08:00",
-  "notes": "## 本次更新\n\n- 更新检查增加 jsDelivr 备用线路并缩短超时时间，改善部分网络环境下长时间无响应的问题。\n- 更新下载改为应用内前台服务，不再依赖系统 DownloadManager，提升模拟器和定制系统兼容性。\n- 支持后台下载、失败重试、断点续传、进程恢复以及 APK 大小与 SHA-256 完整性校验。\n- 优化更新发布时间和“更多”页版本信息展示，移除启动时不必要的通知权限弹窗。\n",
-  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.3.4",
+  "version": "1.3.5",
+  "versionCode": 15,
+  "publishedAt": "2026-08-04T17:05:58+08:00",
+  "notes": "## 本次更新\n\n- 数据采集页新增操作帮助，支持折叠查看和长按复制。\n",
+  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.3.5",
   "apk": {
-    "name": "e7bot-scanner-android-1.3.4.apk",
-    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.3.4/e7bot-scanner-android-1.3.4.apk",
-    "sha256": "c45ecaf715d4393f04122704c1b8666ab847725c8f4f0808b2135a033d1ff803",
-    "sizeBytes": 209563
+    "name": "e7bot-scanner-android-1.3.5.apk",
+    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.3.5/e7bot-scanner-android-1.3.5.apk",
+    "sha256": "54eaafaaeebbe45933eaa186eae4cf3aaf9bc3954f24dfc44ab695ae8dfbba82",
+    "sizeBytes": 212275
   }
 }
