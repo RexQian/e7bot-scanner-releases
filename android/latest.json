@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.3.7",
-  "versionCode": 17,
-  "publishedAt": "2026-08-04T20:08:05+08:00",
-  "notes": "## 本次更新\n\n- 优化骑士团数据采集结果展示。\n",
-  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.3.7",
+  "version": "1.3.8",
+  "versionCode": 18,
+  "publishedAt": "2026-08-05T15:13:23+08:00",
+  "notes": "## 本次更新\n\n- “更多”页新增独立服务器测试功能，支持亚服、国际服、欧服、韩服和日服。\n- 支持设置测试时长、选择单个或全部区服，并通过实际游戏连接检测节点到达率与平均延迟。\n- 联合多个 DNS 来源收集候选 IP，自动选择稳定且低延迟的最优节点。\n- 支持将测试成功的候选 IP 一键应用为当前区服的域名解析规则。\n- 优化候选 IP、解析来源和测试指标列表，并改善小屏幕显示与滚动体验。\n",
+  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.3.8",
   "apk": {
-    "name": "e7bot-scanner-android-1.3.7.apk",
-    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.3.7/e7bot-scanner-android-1.3.7.apk",
-    "sha256": "794c5edb000e524397bedeb66526773ddfa7f884a1e4b317c1745e1075238831",
-    "sizeBytes": 212659
+    "name": "e7bot-scanner-android-1.3.8.apk",
+    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.3.8/e7bot-scanner-android-1.3.8.apk",
+    "sha256": "e0f981fa03c4c9e86f000e47947a52973b9ca1091a21f71fa92102ea4d1ed093",
+    "sizeBytes": 226207
   }
 }
