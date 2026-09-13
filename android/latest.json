@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.3.10",
-  "versionCode": 20,
-  "publishedAt": "2026-08-14T13:21:26+08:00",
-  "notes": "## 本次更新\n\n- 修复部分 Android 16 设备开启直连后 TUN 空读导致的后台高耗电与发热问题。\n- 新增运行诊断，可查看并复制 CPU、TUN 和 DNS 统计信息。\n- 新增《第七史诗》国际服应用内下载与更新。\n- 数据采集支持可选 SOCKS5 TCP 代理。\n- 优化服务器连通性测试和“更多”页面图标。\n",
-  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.3.10",
+  "version": "1.3.11",
+  "versionCode": 21,
+  "publishedAt": "2026-09-13T18:27:00+08:00",
+  "notes": "## 本次更新\n\n- **修复国际服无法进入团战的问题。**\n- 新增“团战采集中转”，采集时自动启用，停止后自动恢复直连。\n",
+  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.3.11",
   "apk": {
-    "name": "e7bot-scanner-android-1.3.10.apk",
-    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.3.10/e7bot-scanner-android-1.3.10.apk",
-    "sha256": "655f6f68ceb291cbbc21ea831f73f192e245b62caf22a4f77d4a9e996cfb12b6",
-    "sizeBytes": 248967
+    "name": "e7bot-scanner-android-1.3.11.apk",
+    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.3.11/e7bot-scanner-android-1.3.11.apk",
+    "sha256": "0ea3c5931ad9a129b7bde327f9c169cef9094680bac307e0b1aded7f8a9277da",
+    "sizeBytes": 256271
   }
 }
