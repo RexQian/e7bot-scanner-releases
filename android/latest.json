@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.3.13",
-  "versionCode": 23,
-  "publishedAt": "2026-09-19T09:55:00+08:00",
-  "notes": "## 本次更新\n\n1. 因游戏服务器线路调整，国际服和亚服无法直连\n2. 新增自动代理中转采集\n",
-  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.3.13",
+  "version": "1.3.14",
+  "versionCode": 24,
+  "publishedAt": "2026-09-20T13:30:54+08:00",
+  "notes": "## 本次更新\n\n- 支持国际服8周年自动投票\n",
+  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.3.14",
   "apk": {
-    "name": "e7bot-scanner-android-1.3.13.apk",
-    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.3.13/e7bot-scanner-android-1.3.13.apk",
-    "sha256": "00c97c5b04e173f435889a11c58b97a31a16cb19321373dcd4a14185a38005ef",
-    "sizeBytes": 266367
+    "name": "e7bot-scanner-android-1.3.14.apk",
+    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.3.14/e7bot-scanner-android-1.3.14.apk",
+    "sha256": "052712ede4eb9f25259129ff40e0db24f73960d81a04f5e1cde11b89479aca45",
+    "sizeBytes": 500211
   }
 }
