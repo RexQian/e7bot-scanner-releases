@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.3.18",
-  "versionCode": 28,
-  "publishedAt": "2026-09-23T15:04:39+08:00",
-  "notes": "# 百里助手 v1.3.18\n\n- 优化临时中转链路。\n- 修正兑换用户凭证失效问题。\n",
-  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.3.18",
+  "version": "1.3.19",
+  "versionCode": 29,
+  "publishedAt": "2026-09-23T16:12:46+08:00",
+  "notes": "# 百里助手 v1.3.19\n\n- 优化中转临时代理连接。\n",
+  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.3.19",
   "apk": {
-    "name": "e7bot-scanner-android-1.3.18.apk",
-    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.3.18/e7bot-scanner-android-1.3.18.apk",
-    "sha256": "da9d0217c6786b72fc14259ec42df234478394d6a07a31163f59c215ae0226a5",
-    "sizeBytes": 507895
+    "name": "e7bot-scanner-android-1.3.19.apk",
+    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.3.19/e7bot-scanner-android-1.3.19.apk",
+    "sha256": "81f27ace45908d966e13ebf8b27dd5b2e00340abd50391ed5c103f26184b0918",
+    "sizeBytes": 509227
   }
 }
