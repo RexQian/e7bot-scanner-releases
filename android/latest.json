@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.3.19",
-  "versionCode": 29,
-  "publishedAt": "2026-09-23T16:12:46+08:00",
-  "notes": "# 百里助手 v1.3.19\n\n- 优化中转临时代理连接。\n",
-  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.3.19",
+  "version": "1.4.0",
+  "versionCode": 48,
+  "publishedAt": "2026-10-22T22:24:25+08:00",
+  "notes": "# 百里助手 v1.4.0\n\n- 新增秘密商店自动刷新，自动购买圣约书签和神秘奖牌。\n",
+  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.4.0",
   "apk": {
-    "name": "e7bot-scanner-android-1.3.19.apk",
-    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.3.19/e7bot-scanner-android-1.3.19.apk",
-    "sha256": "81f27ace45908d966e13ebf8b27dd5b2e00340abd50391ed5c103f26184b0918",
-    "sizeBytes": 509227
+    "name": "e7bot-scanner-android-1.4.0.apk",
+    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.4.0/e7bot-scanner-android-1.4.0.apk",
+    "sha256": "d694d403c11416372d7a6a596d75d04035ee130847016faabc1aa2e6077133a0",
+    "sizeBytes": 6651998
   }
 }
