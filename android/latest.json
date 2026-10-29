@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.5.0",
-  "versionCode": 83,
-  "publishedAt": "2026-10-29T22:53:23+08:00",
-  "notes": "# 百里助手 Android v1.5.0\n\n1. 新增配装功能。\n2. 新增英雄库、装备库、神器库。\n3. 优化游戏辅助截屏。\n",
-  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.5.0",
+  "version": "1.5.1",
+  "versionCode": 84,
+  "publishedAt": "2026-10-30T07:11:21+08:00",
+  "notes": "# 百里助手 Android v1.5.1\n\n1. 修复配装检索不能独立使用2件套的问题。\n2. 修复刷商店不能识别安全区域的问题。\n",
+  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.5.1",
   "apk": {
-    "name": "e7bot-scanner-android-1.5.0.apk",
-    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.5.0/e7bot-scanner-android-1.5.0.apk",
-    "sha256": "34df828b9b88b64dfe72f7d0e878adf4dde62a39651259f916dac4adf3aedb22",
-    "sizeBytes": 27021747
+    "name": "e7bot-scanner-android-1.5.1.apk",
+    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.5.1/e7bot-scanner-android-1.5.1.apk",
+    "sha256": "075c8071764790ec5a79073d32885938e1823e5b69e96d4fe150d2bba2aa2984",
+    "sizeBytes": 27022747
   }
 }
