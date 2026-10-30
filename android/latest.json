@@ -3,7 +3,7 @@
   "version": "1.5.4",
   "versionCode": 90,
   "publishedAt": "2026-10-30T09:05:31+08:00",
-  "notes": "# 百里助手 Android v1.5.4\n\n1. 将应用内的 Cloudflare 备用下载地址统一为 download.e7bot.top，GitHub 下载失败后自动切换。\n2. 更新弹窗按版本分组展示当前安装版本之后的更新说明，最多涵盖最近 5 个正式版本。\n3. 保留原有检查更新与更新日志获取线路，以及安装包的断点续传和完整性校验。\n\n下载失败的旧版用户可从以下地址手动下载安装本版本：\n\nhttps://download.e7bot.top/android/android-v1.5.4/e7bot-scanner-android-1.5.4.apk\n",
+  "notes": "# 百里助手 Android v1.5.4\n\n1. 更新提示现在可以查看你当前版本之后的更新内容，最多显示最近 5 个版本，方便了解升级带来的变化。\n2. 应用内更新和手动下载现在使用同一个下载入口。\n\n如果应用内更新失败，可以[点此下载安装最新版](https://download.e7bot.top/android/android-v1.5.4/e7bot-scanner-android-1.5.4.apk)。\n",
   "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.5.4",
   "apk": {
     "name": "e7bot-scanner-android-1.5.4.apk",
