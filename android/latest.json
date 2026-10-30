@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.5.2",
-  "versionCode": 88,
-  "publishedAt": "2026-10-30T07:31:08+08:00",
-  "notes": "# 百里助手 Android v1.5.2\n\n1. 修复配装检索不能独立使用2件套的问题。\n2. 修复刷商店不能识别安全区域的问题。\n",
-  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.5.2",
+  "version": "1.5.3",
+  "versionCode": 89,
+  "publishedAt": "2026-10-30T08:13:57+08:00",
+  "notes": "# 百里助手 Android v1.5.3\n\n1. 新增 Cloudflare 备用更新下载线路，GitHub 下载失败后自动切换，支持断点续传。\n2. 备用线路安装包保留文件大小、SHA-256 和安装签名校验。\n\n旧版下载失败的用户可从备用下载地址手动下载安装本版本，之后即可使用自动切换线路功能。\n",
+  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.5.3",
   "apk": {
-    "name": "e7bot-scanner-android-1.5.2.apk",
-    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.5.2/e7bot-scanner-android-1.5.2.apk",
-    "sha256": "570d096931f1f1a9026a9985e8ed18c9081a707cb962d3ded9067b58dc18349b",
+    "name": "e7bot-scanner-android-1.5.3.apk",
+    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.5.3/e7bot-scanner-android-1.5.3.apk",
+    "sha256": "1600b52ed78634e44634b591c7eca310c2a8931b6852430911faef88d23df394",
     "sizeBytes": 27026843
   }
 }
