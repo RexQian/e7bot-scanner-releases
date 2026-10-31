@@ -1,17 +1,22 @@
 {
   "schemaVersion": 1,
-  "version": "1.5.5",
-  "versionCode": 91,
-  "publishedAt": "2026-10-30T10:01:02+08:00",
-  "notes": "1. 优化游戏辅助截屏及横竖屏切换后的画面恢复。\n2. 修复启动刷商店时悬浮窗闪烁的问题。\n3. 修复刷商店在卡顿时可能提前结束的问题。\n4. 精简刷商店日志，清晰显示运行结果和结束原因。\n",
-  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.5.5",
+  "version": "1.5.6",
+  "versionCode": 92,
+  "publishedAt": "2026-10-31T23:22:41+08:00",
+  "notes": "修复刷商店长时间运行后可能提前结束的问题\n",
+  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.5.6",
   "apk": {
-    "name": "e7bot-scanner-android-1.5.5.apk",
-    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.5.5/e7bot-scanner-android-1.5.5.apk",
-    "sha256": "ad5323dfab92c12d37d02a72b8c1ca7e639b26737a42c0945421bc6ca752b35c",
-    "sizeBytes": 27039531
+    "name": "e7bot-scanner-android-1.5.6.apk",
+    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.5.6/e7bot-scanner-android-1.5.6.apk",
+    "sha256": "019cf1b01536f6d7627ac2494fe41fcfe8a0cd571ae11c306444e10d436d9d8c",
+    "sizeBytes": 27055979
   },
   "history": [
+    {
+      "version": "1.5.5",
+      "versionCode": 91,
+      "notes": "1. 优化游戏辅助截屏及横竖屏切换后的画面恢复。\n2. 修复启动刷商店时悬浮窗闪烁的问题。\n3. 修复刷商店在卡顿时可能提前结束的问题。\n4. 精简刷商店日志，清晰显示运行结果和结束原因。\n"
+    },
     {
       "version": "1.5.4",
       "versionCode": 90,
@@ -26,11 +31,6 @@
       "version": "1.5.0",
       "versionCode": 83,
       "notes": "# 百里助手 Android v1.5.0\n\n1. 新增配装功能。\n2. 新增英雄库、装备库、神器库。\n3. 优化游戏辅助截屏。\n"
-    },
-    {
-      "version": "1.4.0",
-      "versionCode": 48,
-      "notes": "# 百里助手 v1.4.0\n\n- 新增秘密商店自动刷新，自动购买圣约书签和神秘奖牌。\n"
     }
   ]
 }
