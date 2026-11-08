@@ -1,17 +1,22 @@
 {
   "schemaVersion": 1,
-  "version": "1.6.1",
-  "versionCode": 131,
-  "publishedAt": "2026-11-08T23:17:21+08:00",
-  "notes": "修复应用配装遇到当前穿戴装备时可能中断的问题。\n",
-  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.6.1",
+  "version": "1.6.2",
+  "versionCode": 132,
+  "publishedAt": "2026-11-09T01:07:12+08:00",
+  "notes": "支持国服自动应用配装。\n",
+  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.6.2",
   "apk": {
-    "name": "e7bot-scanner-android-1.6.1.apk",
-    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.6.1/e7bot-scanner-android-1.6.1.apk",
-    "sha256": "1252885fcf6fe05e66e8c54e36af7cb2cf81ec71223e7402ea69b7d2a5db59a7",
-    "sizeBytes": 28061134
+    "name": "e7bot-scanner-android-1.6.2.apk",
+    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.6.2/e7bot-scanner-android-1.6.2.apk",
+    "sha256": "517107ee0485a00db79990a73dcf26de76531e09888d35fe399701c528e6918d",
+    "sizeBytes": 28112034
   },
   "history": [
+    {
+      "version": "1.6.1",
+      "versionCode": 131,
+      "notes": "修复应用配装遇到当前穿戴装备时可能中断的问题。\n"
+    },
     {
       "version": "1.6.0",
       "versionCode": 129,
@@ -26,11 +31,6 @@
       "version": "1.5.5",
       "versionCode": 91,
       "notes": "1. 优化游戏辅助截屏及横竖屏切换后的画面恢复。\n2. 修复启动刷商店时悬浮窗闪烁的问题。\n3. 修复刷商店在卡顿时可能提前结束的问题。\n4. 精简刷商店日志，清晰显示运行结果和结束原因。\n"
-    },
-    {
-      "version": "1.5.4",
-      "versionCode": 90,
-      "notes": "1. 更新提示现在可以查看你当前版本之后的更新内容，最多显示最近 5 个版本，方便了解升级带来的变化。\n2. 应用内更新和手动下载现在使用同一个下载入口。\n"
     }
   ]
 }
