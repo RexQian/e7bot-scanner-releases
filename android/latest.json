@@ -1,17 +1,22 @@
 {
   "schemaVersion": 1,
-  "version": "1.5.6",
-  "versionCode": 92,
-  "publishedAt": "2026-10-31T23:22:41+08:00",
-  "notes": "修复刷商店长时间运行后可能提前结束的问题\n",
-  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.5.6",
+  "version": "1.6.0",
+  "versionCode": 129,
+  "publishedAt": "2026-11-08T18:45:24+08:00",
+  "notes": "1. 新增自动应用配装\n2. 新增配装清单管理\n3. 配装搜索支持固定套装、技能伤害计算和装备排除\n",
+  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.6.0",
   "apk": {
-    "name": "e7bot-scanner-android-1.5.6.apk",
-    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.5.6/e7bot-scanner-android-1.5.6.apk",
-    "sha256": "019cf1b01536f6d7627ac2494fe41fcfe8a0cd571ae11c306444e10d436d9d8c",
-    "sizeBytes": 27055979
+    "name": "e7bot-scanner-android-1.6.0.apk",
+    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.6.0/e7bot-scanner-android-1.6.0.apk",
+    "sha256": "6801aae72f659d00d240f23bb72a95e0f66829c6289289055dfa106e21f71e09",
+    "sizeBytes": 28061126
   },
   "history": [
+    {
+      "version": "1.5.6",
+      "versionCode": 92,
+      "notes": "修复刷商店长时间运行后可能提前结束的问题\n"
+    },
     {
       "version": "1.5.5",
       "versionCode": 91,
@@ -26,11 +31,6 @@
       "version": "1.5.2",
       "versionCode": 88,
       "notes": "# 百里助手 Android v1.5.2\n\n1. 修复配装检索不能独立使用2件套的问题。\n2. 修复刷商店不能识别安全区域的问题。\n"
-    },
-    {
-      "version": "1.5.0",
-      "versionCode": 83,
-      "notes": "# 百里助手 Android v1.5.0\n\n1. 新增配装功能。\n2. 新增英雄库、装备库、神器库。\n3. 优化游戏辅助截屏。\n"
     }
   ]
 }
