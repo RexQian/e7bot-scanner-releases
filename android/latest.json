@@ -1,17 +1,22 @@
 {
   "schemaVersion": 1,
-  "version": "1.6.4",
-  "versionCode": 134,
-  "publishedAt": "2026-11-12T22:59:32+08:00",
-  "notes": "优化自动配装。\n",
-  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.6.4",
+  "version": "1.7.0",
+  "versionCode": 135,
+  "publishedAt": "2026-11-13T00:18:09+08:00",
+  "notes": "- 刷商店新增「购买友情书签」开关\n",
+  "releaseUrl": "https://github.com/RexQian/e7bot-scanner-releases/releases/tag/android-v1.7.0",
   "apk": {
-    "name": "e7bot-scanner-android-1.6.4.apk",
-    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.6.4/e7bot-scanner-android-1.6.4.apk",
-    "sha256": "f19cfc42ffd24d4e0d90cea95df2a7b324c8176db14fea7462fd66edf36e5647",
-    "sizeBytes": 28122669
+    "name": "e7bot-scanner-android-1.7.0.apk",
+    "url": "https://github.com/RexQian/e7bot-scanner-releases/releases/download/android-v1.7.0/e7bot-scanner-android-1.7.0.apk",
+    "sha256": "c893048eb0459e7c33000b370f3be490c2b4f2f361278e9458d17e87bcbd8f40",
+    "sizeBytes": 28127241
   },
   "history": [
+    {
+      "version": "1.6.4",
+      "versionCode": 134,
+      "notes": "优化自动配装。\n"
+    },
     {
       "version": "1.6.3",
       "versionCode": 133,
@@ -26,11 +31,6 @@
       "version": "1.6.1",
       "versionCode": 131,
       "notes": "修复应用配装遇到当前穿戴装备时可能中断的问题。\n"
-    },
-    {
-      "version": "1.6.0",
-      "versionCode": 129,
-      "notes": "1. 新增自动应用配装\n2. 新增配装清单管理\n3. 配装搜索支持固定套装、技能伤害计算和装备排除\n"
     }
   ]
 }
